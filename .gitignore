@@ -63,6 +63,10 @@ cover/
 *.log
 local_settings.py
 db.sqlite3
+
+# Local databases
+escola.db
+*.db
 db.sqlite3-journal
 
 # Flask stuff:
@@ -152,6 +156,9 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+
+# VSCode
+.vscode/
 
 # Cython debug symbols
 cython_debug/
